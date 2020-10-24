@@ -1,163 +1,1231 @@
-Time to SetUp MT for 8192 elements : 0,036 s
+Time to SetUp MT for 16 elements : 0 s
 ******
-Time to generate Acc for (1)0,012% BLOCK elements : 0,009 s
-Time to generate Acc for (1)0,012% SPLIT elements : 0,006 s
-Time to generate Acc for (1)0,012% RANDOM elements : 0,005 s
+Time to generate Acc for (1)6,25% BLOCK elements : 0 s
+Time to generate Acc for (1)6,25% SPLIT elements : 0 s
+Time to generate Acc for (1)6,25% RANDOM elements : 0 s
 Accumulator size : 3
 
-Avg witness size via Subset Difference : 12,999
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,562
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (1)0,012% BLOCK elements : 0,003 s
-Time to generate Acc for (1)0,012% SPLIT elements : 0,004 s
-Time to generate Acc for (1)0,012% RANDOM elements : 0,003 s
+Time to generate Acc for (1)6,25% BLOCK elements : 0 s
+Time to generate Acc for (1)6,25% SPLIT elements : 0 s
+Time to generate Acc for (1)6,25% RANDOM elements : 0 s
 Accumulator size : 3
 
-Avg witness size via Subset Difference : 13
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,562
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (8)0,098% BLOCK elements : 0,003 s
-Time to generate Acc for (8)0,098% SPLIT elements : 0,003 s
-Time to generate Acc for (8)0,098% RANDOM elements : 0,003 s
-Accumulator size : 17
+Time to generate Acc for (1)6,25% BLOCK elements : 0 s
+Time to generate Acc for (1)6,25% SPLIT elements : 0 s
+Time to generate Acc for (1)6,25% RANDOM elements : 0 s
+Accumulator size : 3
 
-Avg witness size via Subset Difference : 12,989
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,562
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (27)0,33% BLOCK elements : 0,004 s
-Time to generate Acc for (27)0,33% SPLIT elements : 0,004 s
-Time to generate Acc for (27)0,33% RANDOM elements : 0,003 s
-Accumulator size : 55
+Time to generate Acc for (1)6,25% BLOCK elements : 0 s
+Time to generate Acc for (1)6,25% SPLIT elements : 0 s
+Time to generate Acc for (1)6,25% RANDOM elements : 0 s
+Accumulator size : 3
 
-Avg witness size via Subset Difference : 12,92
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,562
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (64)0,781% BLOCK elements : 0,003 s
-Time to generate Acc for (64)0,781% SPLIT elements : 0,003 s
-Time to generate Acc for (64)0,781% RANDOM elements : 0,003 s
-Accumulator size : 128,4
+Time to generate Acc for (1)6,25% BLOCK elements : 0 s
+Time to generate Acc for (1)6,25% SPLIT elements : 0 s
+Time to generate Acc for (1)6,25% RANDOM elements : 0 s
+Accumulator size : 3
 
-Avg witness size via Subset Difference : 12,804
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,562
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (125)1,526% BLOCK elements : 0,004 s
-Time to generate Acc for (125)1,526% SPLIT elements : 0,003 s
-Time to generate Acc for (125)1,526% RANDOM elements : 0,004 s
-Accumulator size : 249,733
+Time to generate Acc for (1)6,25% BLOCK elements : 0 s
+Time to generate Acc for (1)6,25% SPLIT elements : 0 s
+Time to generate Acc for (1)6,25% RANDOM elements : 0 s
+Accumulator size : 3
 
-Avg witness size via Subset Difference : 12,614
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,562
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (216)2,637% BLOCK elements : 0,004 s
-Time to generate Acc for (216)2,637% SPLIT elements : 0,004 s
-Time to generate Acc for (216)2,637% RANDOM elements : 0,004 s
-Accumulator size : 426,4
+Time to generate Acc for (1)6,25% BLOCK elements : 0 s
+Time to generate Acc for (1)6,25% SPLIT elements : 0 s
+Time to generate Acc for (1)6,25% RANDOM elements : 0 s
+Accumulator size : 3
 
-Avg witness size via Subset Difference : 12,351
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,562
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (343)4,187% BLOCK elements : 0,005 s
-Time to generate Acc for (343)4,187% SPLIT elements : 0,004 s
-Time to generate Acc for (343)4,187% RANDOM elements : 0,005 s
-Accumulator size : 672,333
+Time to generate Acc for (2)12,5% BLOCK elements : 0 s
+Time to generate Acc for (2)12,5% SPLIT elements : 0 s
+Time to generate Acc for (2)12,5% RANDOM elements : 0 s
+Accumulator size : 4,667
 
-Avg witness size via Subset Difference : 11,967
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,167
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (512)6,25% BLOCK elements : 0,005 s
-Time to generate Acc for (512)6,25% SPLIT elements : 0,005 s
-Time to generate Acc for (512)6,25% RANDOM elements : 0,005 s
-Accumulator size : 991,667
+Time to generate Acc for (2)12,5% BLOCK elements : 0 s
+Time to generate Acc for (2)12,5% SPLIT elements : 0 s
+Time to generate Acc for (2)12,5% RANDOM elements : 0 s
+Accumulator size : 4,833
 
-Avg witness size via Subset Difference : 11,474
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,146
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (729)8,899% BLOCK elements : 0,007 s
-Time to generate Acc for (729)8,899% SPLIT elements : 0,006 s
-Time to generate Acc for (729)8,899% RANDOM elements : 0,006 s
-Accumulator size : 1380,533
+Time to generate Acc for (2)12,5% BLOCK elements : 0 s
+Time to generate Acc for (2)12,5% SPLIT elements : 0 s
+Time to generate Acc for (2)12,5% RANDOM elements : 0 s
+Accumulator size : 4,833
 
-Avg witness size via Subset Difference : 10,832
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 3,146
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (1000)12,207% BLOCK elements : 0,008 s
-Time to generate Acc for (1000)12,207% SPLIT elements : 0,008 s
-Time to generate Acc for (1000)12,207% RANDOM elements : 0,008 s
-Accumulator size : 1856,333
+Time to generate Acc for (3)18,75% BLOCK elements : 0 s
+Time to generate Acc for (3)18,75% SPLIT elements : 0 s
+Time to generate Acc for (3)18,75% RANDOM elements : 0 s
+Accumulator size : 6,667
 
-Avg witness size via Subset Difference : 10,029
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 2,737
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (1331)16,248% BLOCK elements : 0,009 s
-Time to generate Acc for (1331)16,248% SPLIT elements : 0,01 s
-Time to generate Acc for (1331)16,248% RANDOM elements : 0,01 s
-Accumulator size : 2381,933
+Time to generate Acc for (3)18,75% BLOCK elements : 0 s
+Time to generate Acc for (3)18,75% SPLIT elements : 0 s
+Time to generate Acc for (3)18,75% RANDOM elements : 0 s
+Accumulator size : 6
 
-Avg witness size via Subset Difference : 9,136
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 2,828
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (1728)21,094% BLOCK elements : 0,011 s
-Time to generate Acc for (1728)21,094% SPLIT elements : 0,011 s
-Time to generate Acc for (1728)21,094% RANDOM elements : 0,011 s
-Accumulator size : 2954,067
+Time to generate Acc for (3)18,75% BLOCK elements : 0 s
+Time to generate Acc for (3)18,75% SPLIT elements : 0 s
+Time to generate Acc for (3)18,75% RANDOM elements : 0 s
+Accumulator size : 6,75
 
-Avg witness size via Subset Difference : 8,075
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 2,727
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (2197)26,819% BLOCK elements : 0,013 s
-Time to generate Acc for (2197)26,819% SPLIT elements : 0,012 s
-Time to generate Acc for (2197)26,819% RANDOM elements : 0,012 s
-Accumulator size : 3542,733
+Time to generate Acc for (4)25% BLOCK elements : 0 s
+Time to generate Acc for (4)25% SPLIT elements : 0 s
+Time to generate Acc for (4)25% RANDOM elements : 0 s
+Accumulator size : 8,333
 
-Avg witness size via Subset Difference : 6,776
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 2,341
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (2744)33,496% BLOCK elements : 0,013 s
-Time to generate Acc for (2744)33,496% SPLIT elements : 0,014 s
-Time to generate Acc for (2744)33,496% RANDOM elements : 0,014 s
-Accumulator size : 4092,933
+Time to generate Acc for (4)25% BLOCK elements : 0 s
+Time to generate Acc for (4)25% SPLIT elements : 0 s
+Time to generate Acc for (4)25% RANDOM elements : 0 s
+Accumulator size : 8,417
 
-Avg witness size via Subset Difference : 5,606
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 2,331
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (3375)41,199% BLOCK elements : 0,015 s
-Time to generate Acc for (3375)41,199% SPLIT elements : 0,015 s
-Time to generate Acc for (3375)41,199% RANDOM elements : 0,016 s
-Accumulator size : 4524,667
+Time to generate Acc for (4)25% BLOCK elements : 0 s
+Time to generate Acc for (4)25% SPLIT elements : 0 s
+Time to generate Acc for (4)25% RANDOM elements : 0 s
+Accumulator size : 8,25
 
-Avg witness size via Subset Difference : 4,351
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 2,352
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (4096)50% BLOCK elements : 0,017 s
-Time to generate Acc for (4096)50% SPLIT elements : 0,017 s
-Time to generate Acc for (4096)50% RANDOM elements : 0,017 s
-Accumulator size : 4759,067
+Time to generate Acc for (5)31,25% BLOCK elements : 0 s
+Time to generate Acc for (5)31,25% SPLIT elements : 0 s
+Time to generate Acc for (5)31,25% RANDOM elements : 0 s
+Accumulator size : 9
 
-Avg witness size via Subset Difference : 3,269
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 2,125
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (4913)59,973% BLOCK elements : 0,018 s
-Time to generate Acc for (4913)59,973% SPLIT elements : 0,019 s
-Time to generate Acc for (4913)59,973% RANDOM elements : 0,017 s
-Accumulator size : 4642,8
+Time to generate Acc for (5)31,25% BLOCK elements : 0 s
+Time to generate Acc for (5)31,25% SPLIT elements : 0 s
+Time to generate Acc for (5)31,25% RANDOM elements : 0 s
+Accumulator size : 9
 
-Avg witness size via Subset Difference : 2,461
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 2,109
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (5832)71,191% BLOCK elements : 0,019 s
-Time to generate Acc for (5832)71,191% SPLIT elements : 0,019 s
-Time to generate Acc for (5832)71,191% RANDOM elements : 0,018 s
-Accumulator size : 4037,733
+Time to generate Acc for (5)31,25% BLOCK elements : 0 s
+Time to generate Acc for (5)31,25% SPLIT elements : 0 s
+Time to generate Acc for (5)31,25% RANDOM elements : 0 s
+Accumulator size : 9,417
 
-Avg witness size via Subset Difference : 2,181
-Default MT witness size for this case : 13
+Avg witness size via Subset Difference : 2,049
+Default MT witness size for this case : 4
 ******
-Time to generate Acc for (6859)83,728% BLOCK elements : 0,018 s
-Time to generate Acc for (6859)83,728% SPLIT elements : 0,019 s
-Time to generate Acc for (6859)83,728% RANDOM elements : 0,019 s
-Accumulator size : 2743,533
+Time to generate Acc for (6)37,5% BLOCK elements : 0 s
+Time to generate Acc for (6)37,5% SPLIT elements : 0 s
+Time to generate Acc for (6)37,5% RANDOM elements : 0 s
+Accumulator size : 10,167
+
+Avg witness size via Subset Difference : 1,799
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (6)37,5% BLOCK elements : 0 s
+Time to generate Acc for (6)37,5% SPLIT elements : 0 s
+Time to generate Acc for (6)37,5% RANDOM elements : 0 s
+Accumulator size : 10
+
+Avg witness size via Subset Difference : 1,852
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (6)37,5% BLOCK elements : 0 s
+Time to generate Acc for (6)37,5% SPLIT elements : 0 s
+Time to generate Acc for (6)37,5% RANDOM elements : 0 s
+Accumulator size : 9,667
+
+Avg witness size via Subset Difference : 1,922
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (7)43,75% BLOCK elements : 0 s
+Time to generate Acc for (7)43,75% SPLIT elements : 0 s
+Time to generate Acc for (7)43,75% RANDOM elements : 0 s
+Accumulator size : 10,083
+
+Avg witness size via Subset Difference : 1,763
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (7)43,75% BLOCK elements : 0 s
+Time to generate Acc for (7)43,75% SPLIT elements : 0 s
+Time to generate Acc for (7)43,75% RANDOM elements : 0 s
+Accumulator size : 10,5
+
+Avg witness size via Subset Difference : 1,674
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (7)43,75% BLOCK elements : 0 s
+Time to generate Acc for (7)43,75% SPLIT elements : 0 s
+Time to generate Acc for (7)43,75% RANDOM elements : 0 s
+Accumulator size : 11,083
+
+Avg witness size via Subset Difference : 1,583
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (8)50% BLOCK elements : 0 s
+Time to generate Acc for (8)50% SPLIT elements : 0 s
+Time to generate Acc for (8)50% RANDOM elements : 0 s
+Accumulator size : 11,333
+
+Avg witness size via Subset Difference : 1,461
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (8)50% BLOCK elements : 0 s
+Time to generate Acc for (8)50% SPLIT elements : 0 s
+Time to generate Acc for (8)50% RANDOM elements : 0 s
+Accumulator size : 11,333
+
+Avg witness size via Subset Difference : 1,432
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (8)50% BLOCK elements : 0 s
+Time to generate Acc for (8)50% SPLIT elements : 0 s
+Time to generate Acc for (8)50% RANDOM elements : 0 s
+Accumulator size : 11,25
+
+Avg witness size via Subset Difference : 1,497
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (8)50% BLOCK elements : 0 s
+Time to generate Acc for (8)50% SPLIT elements : 0 s
+Time to generate Acc for (8)50% RANDOM elements : 0 s
+Accumulator size : 11,083
+
+Avg witness size via Subset Difference : 1,523
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (9)56,25% BLOCK elements : 0 s
+Time to generate Acc for (9)56,25% SPLIT elements : 0 s
+Time to generate Acc for (9)56,25% RANDOM elements : 0 s
+Accumulator size : 11,167
+
+Avg witness size via Subset Difference : 1,516
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (9)56,25% BLOCK elements : 0 s
+Time to generate Acc for (9)56,25% SPLIT elements : 0 s
+Time to generate Acc for (9)56,25% RANDOM elements : 0 s
+Accumulator size : 10,833
+
+Avg witness size via Subset Difference : 1,469
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (9)56,25% BLOCK elements : 0 s
+Time to generate Acc for (9)56,25% SPLIT elements : 0 s
+Time to generate Acc for (9)56,25% RANDOM elements : 0 s
+Accumulator size : 10,75
+
+Avg witness size via Subset Difference : 1,56
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (10)62,5% BLOCK elements : 0 s
+Time to generate Acc for (10)62,5% SPLIT elements : 0 s
+Time to generate Acc for (10)62,5% RANDOM elements : 0 s
+Accumulator size : 11
+
+Avg witness size via Subset Difference : 1,51
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (10)62,5% BLOCK elements : 0 s
+Time to generate Acc for (10)62,5% SPLIT elements : 0 s
+Time to generate Acc for (10)62,5% RANDOM elements : 0 s
+Accumulator size : 10,333
+
+Avg witness size via Subset Difference : 1,536
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (10)62,5% BLOCK elements : 0 s
+Time to generate Acc for (10)62,5% SPLIT elements : 0 s
+Time to generate Acc for (10)62,5% RANDOM elements : 0 s
+Accumulator size : 9,583
+
+Avg witness size via Subset Difference : 1,727
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (11)68,75% BLOCK elements : 0 s
+Time to generate Acc for (11)68,75% SPLIT elements : 0 s
+Time to generate Acc for (11)68,75% RANDOM elements : 0 s
+Accumulator size : 9,958
+
+Avg witness size via Subset Difference : 1,711
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (11)68,75% BLOCK elements : 0 s
+Time to generate Acc for (11)68,75% SPLIT elements : 0 s
+Time to generate Acc for (11)68,75% RANDOM elements : 0 s
+Accumulator size : 10,5
+
+Avg witness size via Subset Difference : 1,531
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (11)68,75% BLOCK elements : 0 s
+Time to generate Acc for (11)68,75% SPLIT elements : 0 s
+Time to generate Acc for (11)68,75% RANDOM elements : 0 s
+Accumulator size : 10,583
+
+Avg witness size via Subset Difference : 1,549
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (12)75% BLOCK elements : 0 s
+Time to generate Acc for (12)75% SPLIT elements : 0 s
+Time to generate Acc for (12)75% RANDOM elements : 0 s
+Accumulator size : 8,417
+
+Avg witness size via Subset Difference : 1,948
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (12)75% BLOCK elements : 0 s
+Time to generate Acc for (12)75% SPLIT elements : 0 s
+Time to generate Acc for (12)75% RANDOM elements : 0 s
+Accumulator size : 8,708
+
+Avg witness size via Subset Difference : 1,966
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (12)75% BLOCK elements : 0 s
+Time to generate Acc for (12)75% SPLIT elements : 0 s
+Time to generate Acc for (12)75% RANDOM elements : 0 s
+Accumulator size : 8,542
+
+Avg witness size via Subset Difference : 1,87
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (13)81,25% BLOCK elements : 0 s
+Time to generate Acc for (13)81,25% SPLIT elements : 0 s
+Time to generate Acc for (13)81,25% RANDOM elements : 0 s
+Accumulator size : 6,833
+
+Avg witness size via Subset Difference : 2,315
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (13)81,25% BLOCK elements : 0 s
+Time to generate Acc for (13)81,25% SPLIT elements : 0 s
+Time to generate Acc for (13)81,25% RANDOM elements : 0 s
+Accumulator size : 7,208
+
+Avg witness size via Subset Difference : 2,302
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (13)81,25% BLOCK elements : 0 s
+Time to generate Acc for (13)81,25% SPLIT elements : 0 s
+Time to generate Acc for (13)81,25% RANDOM elements : 0 s
+Accumulator size : 7,292
+
+Avg witness size via Subset Difference : 2,167
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (14)87,5% BLOCK elements : 0 s
+Time to generate Acc for (14)87,5% SPLIT elements : 0 s
+Time to generate Acc for (14)87,5% RANDOM elements : 0 s
+Accumulator size : 5,333
+
+Avg witness size via Subset Difference : 2,875
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (14)87,5% BLOCK elements : 0 s
+Time to generate Acc for (14)87,5% SPLIT elements : 0 s
+Time to generate Acc for (14)87,5% RANDOM elements : 0 s
+Accumulator size : 4,875
+
+Avg witness size via Subset Difference : 2,885
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (14)87,5% BLOCK elements : 0 s
+Time to generate Acc for (14)87,5% SPLIT elements : 0 s
+Time to generate Acc for (14)87,5% RANDOM elements : 0 s
+Accumulator size : 4,958
+
+Avg witness size via Subset Difference : 2,766
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (15)93,75% BLOCK elements : 0 s
+Time to generate Acc for (15)93,75% SPLIT elements : 0 s
+Time to generate Acc for (15)93,75% RANDOM elements : 0 s
+Accumulator size : 2
+
+Avg witness size via Subset Difference : 3,75
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (15)93,75% BLOCK elements : 0 s
+Time to generate Acc for (15)93,75% SPLIT elements : 0 s
+Time to generate Acc for (15)93,75% RANDOM elements : 0 s
+Accumulator size : 2
+
+Avg witness size via Subset Difference : 3,75
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (15)93,75% BLOCK elements : 0 s
+Time to generate Acc for (15)93,75% SPLIT elements : 0 s
+Time to generate Acc for (15)93,75% RANDOM elements : 0 s
+Accumulator size : 2
+
+Avg witness size via Subset Difference : 3,75
+Default MT witness size for this case : 4
+******
+Time to generate Acc for (16)100% BLOCK elements : 0 s
+Time to generate Acc for (16)100% SPLIT elements : 0 s
+Time to generate Acc for (16)100% RANDOM elements : 0 s
+Accumulator size : 1
+
+Avg witness size via Subset Difference : 4
+Default MT witness size for this case : 4
+===========================================================
+Time to SetUp MT for 256 elements : 0,001 s
+******
+Time to generate Acc for (1)0,391% BLOCK elements : 0 s
+Time to generate Acc for (1)0,391% SPLIT elements : 0 s
+Time to generate Acc for (1)0,391% RANDOM elements : 0 s
+Accumulator size : 3
+
+Avg witness size via Subset Difference : 7,941
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (5)1,953% BLOCK elements : 0 s
+Time to generate Acc for (5)1,953% SPLIT elements : 0 s
+Time to generate Acc for (5)1,953% RANDOM elements : 0 s
+Accumulator size : 10,833
+
+Avg witness size via Subset Difference : 7,708
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (10)3,906% BLOCK elements : 0 s
+Time to generate Acc for (10)3,906% SPLIT elements : 0 s
+Time to generate Acc for (10)3,906% RANDOM elements : 0 s
+Accumulator size : 20,667
+
+Avg witness size via Subset Difference : 7,417
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (15)5,859% BLOCK elements : 0 s
+Time to generate Acc for (15)5,859% SPLIT elements : 0 s
+Time to generate Acc for (15)5,859% RANDOM elements : 0 s
+Accumulator size : 30,167
+
+Avg witness size via Subset Difference : 7,131
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (20)7,812% BLOCK elements : 0 s
+Time to generate Acc for (20)7,812% SPLIT elements : 0 s
+Time to generate Acc for (20)7,812% RANDOM elements : 0 s
+Accumulator size : 38,917
+
+Avg witness size via Subset Difference : 6,853
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (25)9,766% BLOCK elements : 0 s
+Time to generate Acc for (25)9,766% SPLIT elements : 0 s
+Time to generate Acc for (25)9,766% RANDOM elements : 0 s
+Accumulator size : 47,333
+
+Avg witness size via Subset Difference : 6,582
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (30)11,719% BLOCK elements : 0 s
+Time to generate Acc for (30)11,719% SPLIT elements : 0 s
+Time to generate Acc for (30)11,719% RANDOM elements : 0 s
+Accumulator size : 57
+
+Avg witness size via Subset Difference : 6,29
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (35)13,672% BLOCK elements : 0 s
+Time to generate Acc for (35)13,672% SPLIT elements : 0 s
+Time to generate Acc for (35)13,672% RANDOM elements : 0 s
+Accumulator size : 63,75
+
+Avg witness size via Subset Difference : 6,038
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (40)15,625% BLOCK elements : 0 s
+Time to generate Acc for (40)15,625% SPLIT elements : 0 s
+Time to generate Acc for (40)15,625% RANDOM elements : 0 s
+Accumulator size : 73
+
+Avg witness size via Subset Difference : 5,751
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (46)17,969% BLOCK elements : 0 s
+Time to generate Acc for (46)17,969% SPLIT elements : 0 s
+Time to generate Acc for (46)17,969% RANDOM elements : 0 s
+Accumulator size : 83,75
+
+Avg witness size via Subset Difference : 5,431
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (51)19,922% BLOCK elements : 0 s
+Time to generate Acc for (51)19,922% SPLIT elements : 0 s
+Time to generate Acc for (51)19,922% RANDOM elements : 0 s
+Accumulator size : 88,917
+
+Avg witness size via Subset Difference : 5,195
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (56)21,875% BLOCK elements : 0 s
+Time to generate Acc for (56)21,875% SPLIT elements : 0 s
+Time to generate Acc for (56)21,875% RANDOM elements : 0 s
+Accumulator size : 94,25
+
+Avg witness size via Subset Difference : 4,981
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (61)23,828% BLOCK elements : 0 s
+Time to generate Acc for (61)23,828% SPLIT elements : 0 s
+Time to generate Acc for (61)23,828% RANDOM elements : 0 s
+Accumulator size : 103,333
+
+Avg witness size via Subset Difference : 4,687
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (66)25,781% BLOCK elements : 0 s
+Time to generate Acc for (66)25,781% SPLIT elements : 0 s
+Time to generate Acc for (66)25,781% RANDOM elements : 0 s
+Accumulator size : 106,917
+
+Avg witness size via Subset Difference : 4,496
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (71)27,734% BLOCK elements : 0 s
+Time to generate Acc for (71)27,734% SPLIT elements : 0 s
+Time to generate Acc for (71)27,734% RANDOM elements : 0 s
+Accumulator size : 114,25
+
+Avg witness size via Subset Difference : 4,257
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (76)29,688% BLOCK elements : 0 s
+Time to generate Acc for (76)29,688% SPLIT elements : 0 s
+Time to generate Acc for (76)29,688% RANDOM elements : 0 s
+Accumulator size : 120,083
+
+Avg witness size via Subset Difference : 4,033
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (81)31,641% BLOCK elements : 0 s
+Time to generate Acc for (81)31,641% SPLIT elements : 0 s
+Time to generate Acc for (81)31,641% RANDOM elements : 0 s
+Accumulator size : 124,583
+
+Avg witness size via Subset Difference : 3,825
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (87)33,984% BLOCK elements : 0 s
+Time to generate Acc for (87)33,984% SPLIT elements : 0 s
+Time to generate Acc for (87)33,984% RANDOM elements : 0 s
+Accumulator size : 130,5
+
+Avg witness size via Subset Difference : 3,579
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (92)35,938% BLOCK elements : 0 s
+Time to generate Acc for (92)35,938% SPLIT elements : 0 s
+Time to generate Acc for (92)35,938% RANDOM elements : 0 s
+Accumulator size : 135,167
+
+Avg witness size via Subset Difference : 3,378
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (97)37,891% BLOCK elements : 0 s
+Time to generate Acc for (97)37,891% SPLIT elements : 0 s
+Time to generate Acc for (97)37,891% RANDOM elements : 0 s
+Accumulator size : 139,5
+
+Avg witness size via Subset Difference : 3,176
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (102)39,844% BLOCK elements : 0 s
+Time to generate Acc for (102)39,844% SPLIT elements : 0 s
+Time to generate Acc for (102)39,844% RANDOM elements : 0 s
+Accumulator size : 142,917
+
+Avg witness size via Subset Difference : 3,047
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (107)41,797% BLOCK elements : 0 s
+Time to generate Acc for (107)41,797% SPLIT elements : 0 s
+Time to generate Acc for (107)41,797% RANDOM elements : 0 s
+Accumulator size : 145,25
+
+Avg witness size via Subset Difference : 2,877
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (112)43,75% BLOCK elements : 0 s
+Time to generate Acc for (112)43,75% SPLIT elements : 0 s
+Time to generate Acc for (112)43,75% RANDOM elements : 0 s
+Accumulator size : 146,083
+
+Avg witness size via Subset Difference : 2,751
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (117)45,703% BLOCK elements : 0 s
+Time to generate Acc for (117)45,703% SPLIT elements : 0 s
+Time to generate Acc for (117)45,703% RANDOM elements : 0 s
+Accumulator size : 148,083
+
+Avg witness size via Subset Difference : 2,628
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (122)47,656% BLOCK elements : 0 s
+Time to generate Acc for (122)47,656% SPLIT elements : 0 s
+Time to generate Acc for (122)47,656% RANDOM elements : 0 s
+Accumulator size : 150,333
+
+Avg witness size via Subset Difference : 2,484
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (128)50% BLOCK elements : 0 s
+Time to generate Acc for (128)50% SPLIT elements : 0 s
+Time to generate Acc for (128)50% RANDOM elements : 0 s
+Accumulator size : 150,75
+
+Avg witness size via Subset Difference : 2,369
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (133)51,953% BLOCK elements : 0 s
+Time to generate Acc for (133)51,953% SPLIT elements : 0 s
+Time to generate Acc for (133)51,953% RANDOM elements : 0 s
+Accumulator size : 151,583
+
+Avg witness size via Subset Difference : 2,217
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (138)53,906% BLOCK elements : 0 s
+Time to generate Acc for (138)53,906% SPLIT elements : 0 s
+Time to generate Acc for (138)53,906% RANDOM elements : 0 s
+Accumulator size : 146,083
+
+Avg witness size via Subset Difference : 2,259
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (143)55,859% BLOCK elements : 0 s
+Time to generate Acc for (143)55,859% SPLIT elements : 0 s
+Time to generate Acc for (143)55,859% RANDOM elements : 0 s
+Accumulator size : 150,25
+
+Avg witness size via Subset Difference : 2,148
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (148)57,812% BLOCK elements : 0 s
+Time to generate Acc for (148)57,812% SPLIT elements : 0 s
+Time to generate Acc for (148)57,812% RANDOM elements : 0 s
+Accumulator size : 147,667
+
+Avg witness size via Subset Difference : 2,111
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (153)59,766% BLOCK elements : 0 s
+Time to generate Acc for (153)59,766% SPLIT elements : 0 s
+Time to generate Acc for (153)59,766% RANDOM elements : 0 s
+Accumulator size : 148,583
+
+Avg witness size via Subset Difference : 1,98
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (158)61,719% BLOCK elements : 0 s
+Time to generate Acc for (158)61,719% SPLIT elements : 0 s
+Time to generate Acc for (158)61,719% RANDOM elements : 0 s
+Accumulator size : 143,333
+
+Avg witness size via Subset Difference : 2,045
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (163)63,672% BLOCK elements : 0 s
+Time to generate Acc for (163)63,672% SPLIT elements : 0 s
+Time to generate Acc for (163)63,672% RANDOM elements : 0 s
+Accumulator size : 143,417
+
+Avg witness size via Subset Difference : 1,963
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (168)65,625% BLOCK elements : 0 s
+Time to generate Acc for (168)65,625% SPLIT elements : 0 s
+Time to generate Acc for (168)65,625% RANDOM elements : 0 s
+Accumulator size : 138,833
+
+Avg witness size via Subset Difference : 2,021
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (174)67,969% BLOCK elements : 0 s
+Time to generate Acc for (174)67,969% SPLIT elements : 0 s
+Time to generate Acc for (174)67,969% RANDOM elements : 0 s
+Accumulator size : 133,25
+
+Avg witness size via Subset Difference : 2,044
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (179)69,922% BLOCK elements : 0 s
+Time to generate Acc for (179)69,922% SPLIT elements : 0 s
+Time to generate Acc for (179)69,922% RANDOM elements : 0 s
+Accumulator size : 131,083
+
+Avg witness size via Subset Difference : 2,003
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (184)71,875% BLOCK elements : 0 s
+Time to generate Acc for (184)71,875% SPLIT elements : 0 s
+Time to generate Acc for (184)71,875% RANDOM elements : 0 s
+Accumulator size : 130,083
+
+Avg witness size via Subset Difference : 2,031
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (189)73,828% BLOCK elements : 0 s
+Time to generate Acc for (189)73,828% SPLIT elements : 0 s
+Time to generate Acc for (189)73,828% RANDOM elements : 0 s
+Accumulator size : 121,5
+
+Avg witness size via Subset Difference : 2,109
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (194)75,781% BLOCK elements : 0 s
+Time to generate Acc for (194)75,781% SPLIT elements : 0 s
+Time to generate Acc for (194)75,781% RANDOM elements : 0 s
+Accumulator size : 117,25
+
+Avg witness size via Subset Difference : 2,17
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (199)77,734% BLOCK elements : 0 s
+Time to generate Acc for (199)77,734% SPLIT elements : 0 s
+Time to generate Acc for (199)77,734% RANDOM elements : 0 s
+Accumulator size : 109,083
+
+Avg witness size via Subset Difference : 2,287
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (204)79,688% BLOCK elements : 0 s
+Time to generate Acc for (204)79,688% SPLIT elements : 0 s
+Time to generate Acc for (204)79,688% RANDOM elements : 0 s
+Accumulator size : 102,417
+
+Avg witness size via Subset Difference : 2,435
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (209)81,641% BLOCK elements : 0 s
+Time to generate Acc for (209)81,641% SPLIT elements : 0 s
+Time to generate Acc for (209)81,641% RANDOM elements : 0 s
+Accumulator size : 95,583
+
+Avg witness size via Subset Difference : 2,565
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (215)83,984% BLOCK elements : 0 s
+Time to generate Acc for (215)83,984% SPLIT elements : 0 s
+Time to generate Acc for (215)83,984% RANDOM elements : 0 s
+Accumulator size : 86,583
 
 Avg witness size via Subset Difference : 2,763
-Default MT witness size for this case : 13
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (220)85,938% BLOCK elements : 0 s
+Time to generate Acc for (220)85,938% SPLIT elements : 0 s
+Time to generate Acc for (220)85,938% RANDOM elements : 0 s
+Accumulator size : 77,583
+
+Avg witness size via Subset Difference : 2,915
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (225)87,891% BLOCK elements : 0 s
+Time to generate Acc for (225)87,891% SPLIT elements : 0 s
+Time to generate Acc for (225)87,891% RANDOM elements : 0 s
+Accumulator size : 68,25
+
+Avg witness size via Subset Difference : 3,163
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (230)89,844% BLOCK elements : 0 s
+Time to generate Acc for (230)89,844% SPLIT elements : 0 s
+Time to generate Acc for (230)89,844% RANDOM elements : 0 s
+Accumulator size : 58,083
+
+Avg witness size via Subset Difference : 3,443
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (235)91,797% BLOCK elements : 0 s
+Time to generate Acc for (235)91,797% SPLIT elements : 0 s
+Time to generate Acc for (235)91,797% RANDOM elements : 0 s
+Accumulator size : 49,333
+
+Avg witness size via Subset Difference : 3,786
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (240)93,75% BLOCK elements : 0 s
+Time to generate Acc for (240)93,75% SPLIT elements : 0 s
+Time to generate Acc for (240)93,75% RANDOM elements : 0 s
+Accumulator size : 37,917
+
+Avg witness size via Subset Difference : 4,19
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (245)95,703% BLOCK elements : 0 s
+Time to generate Acc for (245)95,703% SPLIT elements : 0 s
+Time to generate Acc for (245)95,703% RANDOM elements : 0 s
+Accumulator size : 27,917
+
+Avg witness size via Subset Difference : 4,787
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (250)97,656% BLOCK elements : 0 s
+Time to generate Acc for (250)97,656% SPLIT elements : 0 s
+Time to generate Acc for (250)97,656% RANDOM elements : 0 s
+Accumulator size : 15,167
+
+Avg witness size via Subset Difference : 5,647
+Default MT witness size for this case : 8
+******
+Time to generate Acc for (256)100% BLOCK elements : 0 s
+Time to generate Acc for (256)100% SPLIT elements : 0 s
+Time to generate Acc for (256)100% RANDOM elements : 0 s
+Accumulator size : 1
+
+Avg witness size via Subset Difference : 8
+Default MT witness size for this case : 8
+===========================================================
+Time to SetUp MT for 4096 elements : 0,009 s
+******
+Time to generate Acc for (1)0,024% BLOCK elements : 0,001 s
+Time to generate Acc for (1)0,024% SPLIT elements : 0,001 s
+Time to generate Acc for (1)0,024% RANDOM elements : 0,001 s
+Accumulator size : 3
+
+Avg witness size via Subset Difference : 11,994
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (81)1,978% BLOCK elements : 0,002 s
+Time to generate Acc for (81)1,978% SPLIT elements : 0,001 s
+Time to generate Acc for (81)1,978% RANDOM elements : 0,001 s
+Accumulator size : 161,5
+
+Avg witness size via Subset Difference : 11,546
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (163)3,979% BLOCK elements : 0,002 s
+Time to generate Acc for (163)3,979% SPLIT elements : 0,002 s
+Time to generate Acc for (163)3,979% RANDOM elements : 0,002 s
+Accumulator size : 318,25
+
+Avg witness size via Subset Difference : 11,091
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (245)5,981% BLOCK elements : 0,002 s
+Time to generate Acc for (245)5,981% SPLIT elements : 0,002 s
+Time to generate Acc for (245)5,981% RANDOM elements : 0,002 s
+Accumulator size : 472,083
+
+Avg witness size via Subset Difference : 10,639
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (327)7,983% BLOCK elements : 0,002 s
+Time to generate Acc for (327)7,983% SPLIT elements : 0,002 s
+Time to generate Acc for (327)7,983% RANDOM elements : 0,002 s
+Accumulator size : 623,75
+
+Avg witness size via Subset Difference : 10,19
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (409)9,985% BLOCK elements : 0,003 s
+Time to generate Acc for (409)9,985% SPLIT elements : 0,003 s
+Time to generate Acc for (409)9,985% RANDOM elements : 0,003 s
+Accumulator size : 770,333
+
+Avg witness size via Subset Difference : 9,744
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (491)11,987% BLOCK elements : 0,003 s
+Time to generate Acc for (491)11,987% SPLIT elements : 0,003 s
+Time to generate Acc for (491)11,987% RANDOM elements : 0,003 s
+Accumulator size : 914,333
+
+Avg witness size via Subset Difference : 9,304
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (573)13,989% BLOCK elements : 0,004 s
+Time to generate Acc for (573)13,989% SPLIT elements : 0,003 s
+Time to generate Acc for (573)13,989% RANDOM elements : 0,003 s
+Accumulator size : 1045,167
+
+Avg witness size via Subset Difference : 8,88
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (655)15,991% BLOCK elements : 0,003 s
+Time to generate Acc for (655)15,991% SPLIT elements : 0,003 s
+Time to generate Acc for (655)15,991% RANDOM elements : 0,004 s
+Accumulator size : 1174,25
+
+Avg witness size via Subset Difference : 8,459
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (737)17,993% BLOCK elements : 0,004 s
+Time to generate Acc for (737)17,993% SPLIT elements : 0,004 s
+Time to generate Acc for (737)17,993% RANDOM elements : 0,004 s
+Accumulator size : 1300,333
+
+Avg witness size via Subset Difference : 8,044
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (819)19,995% BLOCK elements : 0,004 s
+Time to generate Acc for (819)19,995% SPLIT elements : 0,004 s
+Time to generate Acc for (819)19,995% RANDOM elements : 0,004 s
+Accumulator size : 1415,917
+
+Avg witness size via Subset Difference : 7,638
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (901)21,997% BLOCK elements : 0,005 s
+Time to generate Acc for (901)21,997% SPLIT elements : 0,005 s
+Time to generate Acc for (901)21,997% RANDOM elements : 0,004 s
+Accumulator size : 1530,5
+
+Avg witness size via Subset Difference : 7,247
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (983)23,999% BLOCK elements : 0,004 s
+Time to generate Acc for (983)23,999% SPLIT elements : 0,004 s
+Time to generate Acc for (983)23,999% RANDOM elements : 0,004 s
+Accumulator size : 1636,667
+
+Avg witness size via Subset Difference : 6,858
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1064)25,977% BLOCK elements : 0,005 s
+Time to generate Acc for (1064)25,977% SPLIT elements : 0,004 s
+Time to generate Acc for (1064)25,977% RANDOM elements : 0,004 s
+Accumulator size : 1731,833
+
+Avg witness size via Subset Difference : 6,489
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1146)27,979% BLOCK elements : 0,005 s
+Time to generate Acc for (1146)27,979% SPLIT elements : 0,005 s
+Time to generate Acc for (1146)27,979% RANDOM elements : 0,005 s
+Accumulator size : 1836,167
+
+Avg witness size via Subset Difference : 6,118
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1228)29,98% BLOCK elements : 0,005 s
+Time to generate Acc for (1228)29,98% SPLIT elements : 0,005 s
+Time to generate Acc for (1228)29,98% RANDOM elements : 0,005 s
+Accumulator size : 1921,25
+
+Avg witness size via Subset Difference : 5,763
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1310)31,982% BLOCK elements : 0,005 s
+Time to generate Acc for (1310)31,982% SPLIT elements : 0,015 s
+Time to generate Acc for (1310)31,982% RANDOM elements : 0,005 s
+Accumulator size : 1996,667
+
+Avg witness size via Subset Difference : 5,438
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1392)33,984% BLOCK elements : 0,005 s
+Time to generate Acc for (1392)33,984% SPLIT elements : 0,005 s
+Time to generate Acc for (1392)33,984% RANDOM elements : 0,005 s
+Accumulator size : 2070,75
+
+Avg witness size via Subset Difference : 5,121
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1474)35,986% BLOCK elements : 0,005 s
+Time to generate Acc for (1474)35,986% SPLIT elements : 0,005 s
+Time to generate Acc for (1474)35,986% RANDOM elements : 0,006 s
+Accumulator size : 2116,167
+
+Avg witness size via Subset Difference : 4,832
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1556)37,988% BLOCK elements : 0,006 s
+Time to generate Acc for (1556)37,988% SPLIT elements : 0,006 s
+Time to generate Acc for (1556)37,988% RANDOM elements : 0,006 s
+Accumulator size : 2193,75
+
+Avg witness size via Subset Difference : 4,511
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1638)39,99% BLOCK elements : 0,006 s
+Time to generate Acc for (1638)39,99% SPLIT elements : 0,006 s
+Time to generate Acc for (1638)39,99% RANDOM elements : 0,006 s
+Accumulator size : 2248,5
+
+Avg witness size via Subset Difference : 4,233
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1720)41,992% BLOCK elements : 0,006 s
+Time to generate Acc for (1720)41,992% SPLIT elements : 0,007 s
+Time to generate Acc for (1720)41,992% RANDOM elements : 0,006 s
+Accumulator size : 2290,917
+
+Avg witness size via Subset Difference : 3,97
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1802)43,994% BLOCK elements : 0,006 s
+Time to generate Acc for (1802)43,994% SPLIT elements : 0,006 s
+Time to generate Acc for (1802)43,994% RANDOM elements : 0,006 s
+Accumulator size : 2316,917
+
+Avg witness size via Subset Difference : 3,735
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1884)45,996% BLOCK elements : 0,006 s
+Time to generate Acc for (1884)45,996% SPLIT elements : 0,006 s
+Time to generate Acc for (1884)45,996% RANDOM elements : 0,006 s
+Accumulator size : 2341,083
+
+Avg witness size via Subset Difference : 3,497
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (1966)47,998% BLOCK elements : 0,006 s
+Time to generate Acc for (1966)47,998% SPLIT elements : 0,006 s
+Time to generate Acc for (1966)47,998% RANDOM elements : 0,006 s
+Accumulator size : 2367,583
+
+Avg witness size via Subset Difference : 3,279
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2048)50% BLOCK elements : 0,007 s
+Time to generate Acc for (2048)50% SPLIT elements : 0,006 s
+Time to generate Acc for (2048)50% RANDOM elements : 0,006 s
+Accumulator size : 2372,25
+
+Avg witness size via Subset Difference : 3,088
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2129)51,978% BLOCK elements : 0,007 s
+Time to generate Acc for (2129)51,978% SPLIT elements : 0,006 s
+Time to generate Acc for (2129)51,978% RANDOM elements : 0,007 s
+Accumulator size : 2370,583
+
+Avg witness size via Subset Difference : 2,917
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2211)53,979% BLOCK elements : 0,007 s
+Time to generate Acc for (2211)53,979% SPLIT elements : 0,007 s
+Time to generate Acc for (2211)53,979% RANDOM elements : 0,007 s
+Accumulator size : 2370,833
+
+Avg witness size via Subset Difference : 2,758
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2293)55,981% BLOCK elements : 0,007 s
+Time to generate Acc for (2293)55,981% SPLIT elements : 0,007 s
+Time to generate Acc for (2293)55,981% RANDOM elements : 0,006 s
+Accumulator size : 2367,917
+
+Avg witness size via Subset Difference : 2,603
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2375)57,983% BLOCK elements : 0,007 s
+Time to generate Acc for (2375)57,983% SPLIT elements : 0,007 s
+Time to generate Acc for (2375)57,983% RANDOM elements : 0,007 s
+Accumulator size : 2361,167
+
+Avg witness size via Subset Difference : 2,457
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2457)59,985% BLOCK elements : 0,007 s
+Time to generate Acc for (2457)59,985% SPLIT elements : 0,007 s
+Time to generate Acc for (2457)59,985% RANDOM elements : 0,007 s
+Accumulator size : 2321,333
+
+Avg witness size via Subset Difference : 2,38
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2539)61,987% BLOCK elements : 0,008 s
+Time to generate Acc for (2539)61,987% SPLIT elements : 0,007 s
+Time to generate Acc for (2539)61,987% RANDOM elements : 0,007 s
+Accumulator size : 2281,25
+
+Avg witness size via Subset Difference : 2,304
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2621)63,989% BLOCK elements : 0,007 s
+Time to generate Acc for (2621)63,989% SPLIT elements : 0,007 s
+Time to generate Acc for (2621)63,989% RANDOM elements : 0,007 s
+Accumulator size : 2252,833
+
+Avg witness size via Subset Difference : 2,209
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2703)65,991% BLOCK elements : 0,007 s
+Time to generate Acc for (2703)65,991% SPLIT elements : 0,007 s
+Time to generate Acc for (2703)65,991% RANDOM elements : 0,007 s
+Accumulator size : 2188
+
+Avg witness size via Subset Difference : 2,191
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2785)67,993% BLOCK elements : 0,007 s
+Time to generate Acc for (2785)67,993% SPLIT elements : 0,007 s
+Time to generate Acc for (2785)67,993% RANDOM elements : 0,007 s
+Accumulator size : 2127,333
+
+Avg witness size via Subset Difference : 2,178
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2867)69,995% BLOCK elements : 0,007 s
+Time to generate Acc for (2867)69,995% SPLIT elements : 0,008 s
+Time to generate Acc for (2867)69,995% RANDOM elements : 0,008 s
+Accumulator size : 2067,75
+
+Avg witness size via Subset Difference : 2,154
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (2949)71,997% BLOCK elements : 0,008 s
+Time to generate Acc for (2949)71,997% SPLIT elements : 0,007 s
+Time to generate Acc for (2949)71,997% RANDOM elements : 0,008 s
+Accumulator size : 1987,917
+
+Avg witness size via Subset Difference : 2,178
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3031)73,999% BLOCK elements : 0,007 s
+Time to generate Acc for (3031)73,999% SPLIT elements : 0,007 s
+Time to generate Acc for (3031)73,999% RANDOM elements : 0,007 s
+Accumulator size : 1899,083
+
+Avg witness size via Subset Difference : 2,225
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3112)75,977% BLOCK elements : 0,008 s
+Time to generate Acc for (3112)75,977% SPLIT elements : 0,008 s
+Time to generate Acc for (3112)75,977% RANDOM elements : 0,007 s
+Accumulator size : 1808,25
+
+Avg witness size via Subset Difference : 2,285
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3194)77,979% BLOCK elements : 0,008 s
+Time to generate Acc for (3194)77,979% SPLIT elements : 0,007 s
+Time to generate Acc for (3194)77,979% RANDOM elements : 0,008 s
+Accumulator size : 1696,833
+
+Avg witness size via Subset Difference : 2,375
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3276)79,98% BLOCK elements : 0,007 s
+Time to generate Acc for (3276)79,98% SPLIT elements : 0,007 s
+Time to generate Acc for (3276)79,98% RANDOM elements : 0,007 s
+Accumulator size : 1593
+
+Avg witness size via Subset Difference : 2,483
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3358)81,982% BLOCK elements : 0,008 s
+Time to generate Acc for (3358)81,982% SPLIT elements : 0,008 s
+Time to generate Acc for (3358)81,982% RANDOM elements : 0,007 s
+Accumulator size : 1481
+
+Avg witness size via Subset Difference : 2,611
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3440)83,984% BLOCK elements : 0,007 s
+Time to generate Acc for (3440)83,984% SPLIT elements : 0,008 s
+Time to generate Acc for (3440)83,984% RANDOM elements : 0,008 s
+Accumulator size : 1351,917
+
+Avg witness size via Subset Difference : 2,778
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3522)85,986% BLOCK elements : 0,008 s
+Time to generate Acc for (3522)85,986% SPLIT elements : 0,007 s
+Time to generate Acc for (3522)85,986% RANDOM elements : 0,008 s
+Accumulator size : 1211,167
+
+Avg witness size via Subset Difference : 2,975
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3604)87,988% BLOCK elements : 0,007 s
+Time to generate Acc for (3604)87,988% SPLIT elements : 0,007 s
+Time to generate Acc for (3604)87,988% RANDOM elements : 0,007 s
+Accumulator size : 1064,25
+
+Avg witness size via Subset Difference : 3,207
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3686)89,99% BLOCK elements : 0,007 s
+Time to generate Acc for (3686)89,99% SPLIT elements : 0,007 s
+Time to generate Acc for (3686)89,99% RANDOM elements : 0,007 s
+Accumulator size : 910,417
+
+Avg witness size via Subset Difference : 3,503
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3768)91,992% BLOCK elements : 0,007 s
+Time to generate Acc for (3768)91,992% SPLIT elements : 0,007 s
+Time to generate Acc for (3768)91,992% RANDOM elements : 0,007 s
+Accumulator size : 740,917
+
+Avg witness size via Subset Difference : 3,845
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3850)93,994% BLOCK elements : 0,008 s
+Time to generate Acc for (3850)93,994% SPLIT elements : 0,008 s
+Time to generate Acc for (3850)93,994% RANDOM elements : 0,007 s
+Accumulator size : 575,5
+
+Avg witness size via Subset Difference : 4,288
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (3932)95,996% BLOCK elements : 0,007 s
+Time to generate Acc for (3932)95,996% SPLIT elements : 0,007 s
+Time to generate Acc for (3932)95,996% RANDOM elements : 0,007 s
+Accumulator size : 392,417
+
+Avg witness size via Subset Difference : 4,936
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (4014)97,998% BLOCK elements : 0,007 s
+Time to generate Acc for (4014)97,998% SPLIT elements : 0,007 s
+Time to generate Acc for (4014)97,998% RANDOM elements : 0,006 s
+Accumulator size : 203,25
+
+Avg witness size via Subset Difference : 6,018
+Default MT witness size for this case : 12
+******
+Time to generate Acc for (4096)100% BLOCK elements : 0,006 s
+Time to generate Acc for (4096)100% SPLIT elements : 0,006 s
+Time to generate Acc for (4096)100% RANDOM elements : 0,006 s
+Accumulator size : 1
+
+Avg witness size via Subset Difference : 12
+Default MT witness size for this case : 12
 ===========================================================
 Correctness : OK
