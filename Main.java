@@ -12,10 +12,12 @@ public class Main {
     private static final DecimalFormat df = new DecimalFormat("#.###");
     private static final String nextDataSeparator = "===========================================================";
     private static final SortedMap<Double, Double> plotDataComplete = new TreeMap<>();
+    private static final SortedMap<Double, Double> plotDataCompleteBounded = new TreeMap<>();
     private static final SortedMap<distribution, SortedMap<Double, Double>> plotDataDistributions = new TreeMap<>();
     private static final SortedMap<distribution, Pair> witSizeAndCount = new TreeMap<>();
     private static final SortedMap<distribution, Double> accSumForDist = new TreeMap<>();
-    private static final SortedMap<Double, Double> plotDataPartitions = new TreeMap<>();
+    private static final List<SortedMap<Double, Double>> plotDataPartitions = new ArrayList<>(3);
+    private static final SortedMap<Double, Double> plotDataAccPartitions = new TreeMap<>();
 
     private enum distribution {
         BLOCK,
@@ -39,7 +41,7 @@ public class Main {
             System.out.println("Fail");
         }
         try (BufferedWriter bw = new BufferedWriter(new FileWriter("test_results.txt", StandardCharsets.UTF_8))) {
-            test(10, bw);
+            test(8, bw);
         } catch (IOException e) {
             System.out.println("Fail");
         }
@@ -51,7 +53,13 @@ public class Main {
                 printPlot(bw, m);
             }
 //          PARTITION
-            printPlot(bw, plotDataPartitions);
+            for (Map<Double, Double> m : plotDataPartitions) {
+                printPlot(bw, m);
+            }
+//          ACC FOR X
+            printPlot(bw, plotDataAccPartitions);
+//          BOUNDED COMPLETE
+            printPlot(bw, plotDataCompleteBounded);
 
         } catch (IOException e) {
             System.out.println("Fail");
@@ -114,17 +122,21 @@ public class Main {
             plotDataDistributions.put(dist, new TreeMap<>());
         }
 
+        for (int r = 0; r < 3; ++r) {
+            plotDataPartitions.add(new TreeMap<>());
+        }
+
         long startTime;
-        int[] heights = {8, 12, 16};
+        int[] heights = {4, 8, 12};
         int[][] sizesOfX = new int[heights.length][];
         for (int i = 0; i < heights.length; ++i) {
             int size = (int) Math.pow(2, heights[i]);
 
-            int k = 100;
+            int k = 50;
             sizesOfX[i] = new int[k + 1];
             sizesOfX[i][0] = 1;
             for (int q = 0; q < k; ++q) {
-                sizesOfX[i][1 + q] = Math.max(1, size / k * (q + 1));
+                sizesOfX[i][1 + q] = Math.max(1, (int) (size / (double) k * (q + 1)));
             }
 //            sizesOfX[i] = new int[20];
 //            for (int t = 0; t < 20; ++t) {
@@ -136,6 +148,7 @@ public class Main {
         boolean verdicts = true;
         for (int i = 0; i < heights.length; ++i) {
             System.out.println("testing " + (i + 1) + "-th of " + heights.length);
+
             int h = heights[i];
             int size = (int) Math.pow(2, h);
             boolean f = true;
@@ -249,9 +262,13 @@ public class Main {
 
 
 //                GRAPH
+                plotDataPartitions.get(i).put(n / (double) size, witSize / (double) witCount / h);
                 if (i == heights.length - 1) {
-                    plotDataPartitions.put(size / (double) n, witSize / (double) witCount / h);
+                    plotDataAccPartitions.put(n / (double) size, accSize / (double) (numOfTests * distribution.values().length));
                     plotDataComplete.put((witSize / (double) witCount) / h, accSize / (double) (numOfTests * distribution.values().length));
+                    if (n / (double) size < 0.6) {
+                        plotDataCompleteBounded.put((witSize / (double) witCount) / h, accSize / (double) (numOfTests * distribution.values().length));
+                    }
                 }
             }
             bw.write(nextDataSeparator + "\n");
